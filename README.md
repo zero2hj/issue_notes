@@ -1,0 +1,2 @@
+# article
+act as blog
