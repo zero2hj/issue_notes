@@ -13,7 +13,7 @@ article will be recorded on the principle -
  --  _模仿_
 - talk is cheap, show the code
   
-===================分隔线=========================
+---
 
 ## reading
 
