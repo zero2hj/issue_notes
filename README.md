@@ -1,9 +1,4 @@
-# article
-this is record about java tech and dev tips.
-try to collect anything and establish a knowledge map, which will keep growing up, in my brain .
-inspirit on ()[]
-
-article will be recorded on the principle 
+# notes
 
 > 这个技术出现的背景、初衷和要达到什么样的目标或是要解决什么样的问题。这个问题非常关键，也就是说，你在学习一个技术的时候，需要知道这个技术的成因和目标，也就是这个技术的灵魂。如果不知道这些的话，那么你会看不懂这个技术的一些设计理念。
 > 这个技术的优势和劣势分别是什么，或者说，这个技术的 trade-off 是什么。任何技术都有其好坏，在解决一个问题的时候，也会带来新的问题。另外，一般来说，任何设计都有 trade-off（要什么和不要什么），所以，你要清楚这个技术的优势和劣势，以及带来的挑战
