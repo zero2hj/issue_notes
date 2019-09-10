@@ -26,7 +26,7 @@ _基础_
 tcp/ip
 算法
 
-_**框架&工具**_
+_**框架&工具*code**_
 spring 
 nosql
 mq
@@ -39,11 +39,11 @@ _面试_
 开源框架源码
 相关面试repo
 
-_action_
-leetcode per each wk  
-2019年9月10日  
-spring-boot demo  
-2019年9月10日 -  20日mysql &网络  
-2019 10月 操作系统&jvm  
-2019 11月 java syntax and opensource code  
-2019 12 生产  
+_action_  
+* leetcode per each wk  *
+- 2019年9月10日  
+- spring-boot demo  
+- 2019年9月10日 -  20日mysql &网络  
+- 2019 10月 操作系统&jvm  
+- 2019 11月 java syntax and opensource code  
+- 2019 12 生产  
