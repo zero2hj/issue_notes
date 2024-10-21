@@ -1,49 +1,22 @@
-# notes
 
+### vision
+- experience in business tech solution
+  - computer science
+  - area knowledge
+- architect skill
+  - software design
+  - in action
+- programming skill
+  - source code
+  - practice
+
+--- 
+
+### how to step into new area
  * 这个技术出现的背景、初衷和要达到什么样的目标或是要解决什么样的问题。这个问题非常关键，也就是说，你在学习一个技术的时候，需要知道这个技术的成因和目标，也就是这个技术的灵魂。如果不知道这些的话，那么你会看不懂这个技术的一些设计理念。 
  * 这个技术的优势和劣势分别是什么，或者说，这个技术的 trade-off 是什么。任何技术都有其好坏，在解决一个问题的时候，也会带来新的问题。另外，一般来说，任何设计都有 trade-off（要什么和不要什么），所以，你要清楚这个技术的优势和劣势，以及带来的挑战
  * 这个技术适用的场景。任何技术都有其适用的场景，离开了这个场景，这个技术可能会有很多槽点，所以学习技术不但要知道这个技术是什么，还要知道其适用的场景。没有任何一个技术是普适的。注意，所谓场景一般分别两个，一个是业务场景，一个是技术场景。
  * 技术的组成部分和关键点。这是技术的核心思想和核心组件了，也是这个技术的灵魂所在了。学习技术的核心部分是快速掌握的关键。
  * 技术的底层原理和关键实现。任何一个技术都有其底层的关键基础技术，这些关键技术很有可能也是其它技术的关键基础技术。所以，学习这些关键的基础底层技术，可以让你未来很快地掌握其它技术。可以参看我在 CoolShell 上写的 Docker 底层技术那一系列文章。
  * 已有的实现和它之间的对比。一般来说，任何一个技术都会有不同的实现，不同的实现都会有不同的侧重。学习不同的实现，可以让你得到不同的想法和思路，对于开阔思维，深入细节是非常重要的。
- 
-> 极客时间版权所有: https://time.geekbang.org/column/article/14360
 
-  
----
-
-### flag
-**高效学习的能力**
-
-_**书**_
-think in java
-effective java
-head first design pattern
-深入理解jvm
-csapp\sicp
-
-_基础_
-tcp/ip
-算法
-
-_**框架&工具*code**_
-spring 
-nosql
-mq
-zk
-es
-guava,netty,logback,commons,gson,fastjson,jackson,protobuf,thrift,dubbo
-> [see](#notes)
-
-_面试_
-开源框架源码
-相关面试repo
-
-_action_  
-* leetcode per each wk  *
-- 2019年9月10日  
-- spring-boot demo  
-- 2019年9月10日 -  20日mysql &网络  
-- 2019 10月 操作系统&jvm  
-- 2019 11月 java syntax and opensource code  
-- 2019 12 生产  
